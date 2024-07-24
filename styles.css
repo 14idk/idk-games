@@ -14,3 +14,10 @@
 
 .btn:hover {
     background-color: #3e8e41
+body {
+    background-image: url('https://media.discordapp.net/attachments/1255440100490477579/1265642205511417897/images_4.jpeg?ex=66a240a8&is=66a0ef28&hm=f089e3e71bb430c0a350f3ecd5ba85b89bdd03cef56161b70fc2a5ffbb7eba5b&=&format=webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
